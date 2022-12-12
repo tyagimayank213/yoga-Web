@@ -1,0 +1,39 @@
+#bodyContent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#mainPageImage{
+    width: 23rem;
+}
+#Admission{
+    margin-bottom: 1rem;
+}
+form{
+    border: 2px solid black ;
+    padding: 1rem;
+}
+
+input{
+    outline: none;
+    height: 1.5rem;
+    background-color: rgb(253, 253, 253);
+    border: 1px solid black;
+    margin: 1rem;
+}
+label{
+    margin: 1rem;
+
+}
+#fname{
+    margin-right: 1.5rem;
+}
+#address{
+    width: 70%;
+}
+#pay{
+    margin-top: 1.5rem;
+    margin-left: .9rem;
+    height: 2rem;
+    width: 6rem;
+}
