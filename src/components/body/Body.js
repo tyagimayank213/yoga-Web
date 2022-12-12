@@ -36,6 +36,7 @@ const Body = () => {
     validate:validateEmployee,
     onSubmit:values=>{
       alert(JSON.stringify(values));
+      window.location.reload();  
     }
   });
   const [payBalance, setPayBalance] = useState(0);
