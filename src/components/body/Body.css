@@ -9,7 +9,7 @@
 #Admission{
     margin-bottom: 1rem;
 }
-form{
+.formm{
     border: 2px solid black ;
     padding: 1rem;
 }
@@ -36,4 +36,6 @@ label{
     margin-left: .9rem;
     height: 2rem;
     width: 6rem;
+    outline: none;
+    border: 2px sold black;
 }
